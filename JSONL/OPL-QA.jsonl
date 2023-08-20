@@ -1,0 +1,7 @@
+{ "prompt": "What does OPL stand for in the OPL programming language?", "completion": "OPL is short for Open Programming Language"  }
+{ "prompt": "Which company developed the OPL programmung language?", "completion": "Psion Ltd created OPL for the Psion Organiser"  }
+{ "prompt": "Which was the original name for the OPL programming language?", "completion": "The OPL language was originally named Organiser Programming Language"  }
+{ "prompt": "Who created the OPL programming language?", "completion": "The OPL language was designed by Colly Myers and implemented by Richard Harrison and Martin Stamp of Psion Ltd."  }
+{ "prompt": "What was the first implementation of OPL?", "completion": "The first implementation of the OPL programming language was in 1984 for the Psion Organiser."  }
+{ "prompt": "What does the REM keyword stand for in OPL?", "completion": "REM is short for REMark.  it is used to represent a comment in OPL.  For example:\nREM i am a comment"  }
+{ "prompt": "What does the PROC keyword stand for in OPL?", "completion": "PROC is short for Procedure. The PROC keyword is used to indicate the start of a procedure.  For example:\nPROC myprog:\n\tPRINT \"Hello World\"\nENDP"  }

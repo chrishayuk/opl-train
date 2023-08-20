@@ -1,0 +1,1 @@
+{ "prompt": "Write a shell script that will put the current date in a file called "the_date.txt"", "completion": "#!/usr/bin/env bash\n\necho $(date) > the_date.txt"  }
